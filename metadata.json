@@ -1,0 +1,6 @@
+{
+  "name": "York’s Tarts - Premium Cinematic Tattoo Studio",
+  "description": "Custom Tattoos | Bold Designs | Precision Ink",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
